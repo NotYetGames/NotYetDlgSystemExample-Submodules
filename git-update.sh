@@ -7,4 +7,4 @@ git pull --verbose
 
 # Update subtree
 git submodule update --remote
-git submodule foreach git pull origin 4.22
+git submodule foreach git pull origin 4.23
