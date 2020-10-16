@@ -79,3 +79,4 @@ Tools
 Content/StarterContent/*
 .vscode/
 *.code-workspace
+.ignore
