@@ -5,7 +5,7 @@
 ## 👉 [Normal Example Project](https://gitlab.com/NotYetGames/NotYetDlgSystemExample) 👈
 
 
-Branch Unreal version: `4.24`
+Branch Unreal version: `4.25`
 
 
 Github Mirror: [HERE](https://github.com/NotYetGames/NotYetDlgSystemExample-Submodules)
@@ -19,7 +19,7 @@ Example project for the [DlgSystem](https://gitlab.com/NotYetGames/DlgSystem/) p
 **WARNING** if you don't clone like this the Plugin submodule won't be downloaded
 
 ```sh
-git clone --recurse-submodules -j 2 -b 4.24 https://gitlab.com/NotYetGames/NotYetDlgSystemExample-Submodules.git
+git clone --recurse-submodules -j 2 -b 4.25 https://gitlab.com/NotYetGames/NotYetDlgSystemExample-Submodules.git
 ```
 
 ---
@@ -37,5 +37,5 @@ git submodule update --init --recursive
 ./git-update.sh
 
 # Was added with
-git submodule add -b 4.24 https://gitlab.com/NotYetGames/DlgSystem.git Plugins/DlgSystem
+git submodule add -b 4.25 https://gitlab.com/NotYetGames/DlgSystem.git Plugins/DlgSystem
 ```
