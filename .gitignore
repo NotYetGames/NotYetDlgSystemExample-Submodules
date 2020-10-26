@@ -80,3 +80,4 @@ Content/StarterContent/*
 .vscode/
 *.code-workspace
 .ignore
+.idea/
