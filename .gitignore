@@ -79,3 +79,5 @@ Tools
 Content/StarterContent/*
 .vscode/
 *.code-workspace
+.idea/
+.ignore
