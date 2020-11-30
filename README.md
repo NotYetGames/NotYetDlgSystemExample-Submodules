@@ -1,4 +1,4 @@
-# Not Yet: Dialogue System Plugin - Example Project with Submodules
+# Not Yet: Dialogue Plugin System - Example Project with Submodules
 
 ## ⚠🚨 This is for advanced users only who know how to use [git submodules](https://www.git-scm.com/book/en/v2/Git-Tools-Submodules)
 
