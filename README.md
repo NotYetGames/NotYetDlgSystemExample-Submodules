@@ -37,5 +37,5 @@ git submodule update --init --recursive
 ./git-update.sh
 
 # Was added with
-git submodule add -b 4.24 https://gitlab.com/NotYetGames/DlgSystem.git Plugins/DlgSystem
+git submodule add -b master https://gitlab.com/NotYetGames/DlgSystem.git Plugins/DlgSystem
 ```
