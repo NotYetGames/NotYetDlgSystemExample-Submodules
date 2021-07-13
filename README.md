@@ -5,7 +5,7 @@
 ## 👉 [Normal Example Project](https://gitlab.com/NotYetGames/NotYetDlgSystemExample) 👈
 
 
-Branch Unreal version: `4.26`
+Branch Unreal version: `4.27`
 
 
 Github Mirror: [HERE](https://github.com/NotYetGames/NotYetDlgSystemExample-Submodules)
