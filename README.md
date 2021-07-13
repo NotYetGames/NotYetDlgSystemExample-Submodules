@@ -4,9 +4,7 @@
 
 ## 👉 [Normal Example Project](https://gitlab.com/NotYetGames/NotYetDlgSystemExample) 👈
 
-
 Branch Unreal version: `5.0`
-
 
 Github Mirror: [HERE](https://github.com/NotYetGames/NotYetDlgSystemExample-Submodules)
 
@@ -37,5 +35,5 @@ git submodule update --init --recursive
 ./git-update.sh
 
 # Was added with
-git submodule add -b 5.0 https://gitlab.com/NotYetGames/DlgSystem.git Plugins/DlgSystem
+git submodule add -b master https://gitlab.com/NotYetGames/DlgSystem.git Plugins/DlgSystem
 ```

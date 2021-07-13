@@ -9,6 +9,9 @@ public class NYDlgSystemExampleTarget : TargetRules
 	{
 		Type = TargetType.Game;
 		DefaultBuildSettings = BuildSettingsVersion.V2;
+		// bUseUnityBuild = false;
+		// bUseSharedPCHs = false;
+		// bUsePCHFiles = false;
 
 		ExtraModuleNames.AddRange( new string[] { "NYDlgSystemExample" } );
 	}
