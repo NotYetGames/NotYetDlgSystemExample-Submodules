@@ -81,3 +81,4 @@ Content/StarterContent/*
 *.code-workspace
 .ignore
 .idea/
+Plugins/Developer/
