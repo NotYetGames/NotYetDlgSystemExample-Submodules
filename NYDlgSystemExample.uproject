@@ -20,5 +20,17 @@
 			"Name": "FunctionalTestingEditor",
 			"Enabled": true
 		}
+	],
+	"TargetPlatforms": [
+		"Android",
+		"AllDesktop",
+		"HoloLens",
+		"IOS",
+		"LinuxNoEditor",
+		"LinuxAArch64NoEditor",
+		"Lumin",
+		"TVOS",
+		"WindowsNoEditor",
+		"MacNoEditor"
 	]
 }
