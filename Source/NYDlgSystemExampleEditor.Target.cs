@@ -10,7 +10,7 @@ public class NYDlgSystemExampleEditorTarget : TargetRules
 		Type = TargetType.Editor;
 		DefaultBuildSettings = BuildSettingsVersion.V2;
 		IncludeOrderVersion = EngineIncludeOrderVersion.Latest;
-		// bUseUnityBuild = false;
+		bUseUnityBuild = true;
 		// bUseSharedPCHs = false;
 		// bUsePCHFiles = false;
 

@@ -9,7 +9,8 @@ public class NYDlgSystemExampleTarget : TargetRules
 	{
 		Type = TargetType.Game;
 		DefaultBuildSettings = BuildSettingsVersion.V2;
-		// bUseUnityBuild = false;
+		IncludeOrderVersion = EngineIncludeOrderVersion.Latest;
+		bUseUnityBuild = true;
 		// bUseSharedPCHs = false;
 		// bUsePCHFiles = false;
 
