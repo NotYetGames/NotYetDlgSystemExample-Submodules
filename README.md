@@ -2,22 +2,20 @@
 
 ## ⚠🚨 This is for advanced users only who know how to use [git submodules](https://www.git-scm.com/book/en/v2/Git-Tools-Submodules)
 
-## 👉 [Normal Example Project](https://gitlab.com/NotYetGames/NotYetDlgSystemExample) 👈
+## 👉 [Normal Example Project](https://github.com/NotYetGames/NotYetDlgSystemExample) 👈
 
 Branch Unreal version: `5.1`
 
-Github Mirror: [HERE](https://github.com/NotYetGames/NotYetDlgSystemExample-Submodules)
+Example project for the [DlgSystem](https://github.com/NotYetGames/DlgSystem/) plugin.
 
-Example project for the [DlgSystem](https://gitlab.com/NotYetGames/DlgSystem/) plugin.
-
-**See the [Wiki](https://gitlab.com/NotYetGames/DlgSystem/wikis/home) for the manual and tutorials.**
+**See the [Wiki](https://github.com/NotYetGames/DlgSystem/wiki) for the manual and tutorials.**
 
 ## Clone
 
 **WARNING** if you don't clone like this the Plugin submodule won't be downloaded
 
 ```sh
-git clone --recurse-submodules -j 2 -b 5.1 https://gitlab.com/NotYetGames/NotYetDlgSystemExample-Submodules.git
+git clone --recurse-submodules -j 2 -b 5.1 https://github.com/NotYetGames/NotYetDlgSystemExample-Submodules.git
 ```
 
 ---
@@ -35,5 +33,5 @@ git submodule update --init --recursive
 ./git-update.sh
 
 # Was added with
-git submodule add -b master https://gitlab.com/NotYetGames/DlgSystem.git Plugins/DlgSystem
+git submodule add -b master git@github.com:NotYetGames/DlgSystem.git Plugins/DlgSystem
 ```
