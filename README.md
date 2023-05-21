@@ -6,11 +6,9 @@
 
 Branch Unreal version: `5.2`
 
-Github Mirror: [HERE](https://github.com/NotYetGames/NotYetDlgSystemExample-Submodules)
-
 Example project for the [DlgSystem](https://github.com/NotYetGames/DlgSystem/) plugin.
 
-**See the [Wiki](https://gitlab.com/NotYetGames/DlgSystem/wikis/home) for the manual and tutorials.**
+**See the [Wiki](https://github.com/NotYetGames/DlgSystem/wiki) for the manual and tutorials.**
 
 ## Clone
 
