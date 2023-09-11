@@ -8,7 +8,7 @@ public class NYDlgSystemExampleTarget : TargetRules
 	public NYDlgSystemExampleTarget(TargetInfo Target) : base(Target)
 	{
 		Type = TargetType.Game;
-		DefaultBuildSettings = BuildSettingsVersion.V2;
+		DefaultBuildSettings = BuildSettingsVersion.Latest;
 		IncludeOrderVersion = EngineIncludeOrderVersion.Latest;
 		bUseUnityBuild = true;
 		// bUseSharedPCHs = false;
