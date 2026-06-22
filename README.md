@@ -4,7 +4,7 @@
 
 ## 👉 [Normal Example Project](https://github.com/NotYetGames/NotYetDlgSystemExample) 👈
 
-Branch Unreal version: `5.7`
+Branch Unreal version: `5.8`
 
 Example project for the [DlgSystem](https://github.com/NotYetGames/DlgSystem/) plugin.
 
@@ -15,7 +15,7 @@ Example project for the [DlgSystem](https://github.com/NotYetGames/DlgSystem/) p
 **WARNING** if you don't clone like this the Plugin submodule won't be downloaded
 
 ```sh
-git clone --recurse-submodules -j 2 -b 5.7 https://github.com/NotYetGames/NotYetDlgSystemExample-Submodules.git
+git clone --recurse-submodules -j 2 -b 5.8 https://github.com/NotYetGames/NotYetDlgSystemExample-Submodules.git
 ```
 
 ---
